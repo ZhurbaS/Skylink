@@ -402,31 +402,31 @@ template {
 
 @font-face {
   font-family: Inter local;
-  src: url("/fonts/Inter-VariableFont_opsz,wght.ttf");
+  src: url("/Skylink/fonts/Inter-VariableFont_opsz,wght.ttf");
   font-weight: regular;
   font-style: normal;
 }
 @font-face {
   font-family: Inter local;
-  src: url("/fonts/Inter-VariableFont_opsz,wght.ttf");
+  src: url("/Skylink/fonts/Inter-VariableFont_opsz,wght.ttf");
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: Plus Jakarta Sans local;
-  src: url("/fonts/PlusJakartaSans-VariableFont_wght.ttf");
+  src: url("/Skylink/fonts/PlusJakartaSans-VariableFont_wght.ttf");
   font-weight: regular;
   font-style: normal;
 }
 @font-face {
   font-family: Plus Jakarta Sans local;
-  src: url("/fonts/PlusJakartaSans-VariableFont_wght.ttf");
+  src: url("/Skylink/fonts/PlusJakartaSans-VariableFont_wght.ttf");
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: Montserrat;
-  src: url("/fonts/Montserrat-VariableFont_wght.ttf");
+  src: url("/Skylink/fonts/Montserrat-VariableFont_wght.ttf");
   font-weight: regular;
   font-style: normal;
 }
