@@ -2068,7 +2068,7 @@ input:focus {
     margin-top: 25px;
   }
   .footer-wrapper {
-    width: 540px;
+    width: 100%;
   }
   .payment-wrapper {
     width: 328px;
@@ -2077,7 +2077,8 @@ input:focus {
   }
   .payment-table {
     margin-top: 0px;
-    margin-left: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
   .payment-method {
     margin-top: 20px;
@@ -2086,7 +2087,7 @@ input:focus {
     font-size: 20px;
   }
   .payment-options {
-    width: 95%;
+    width: 100%;
     margin-top: 15px;
     flex-direction: column;
     border: none;
@@ -2100,7 +2101,7 @@ input:focus {
   }
   .details-payment-form {
     margin-top: 32px;
-    width: 95%;
+    width: 100%;
   }
   .details-form-row {
     flex-wrap: wrap;
